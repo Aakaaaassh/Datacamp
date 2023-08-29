@@ -1,3 +1,5 @@
+![video_game](https://github.com/Aakaaaassh/SQL/assets/66636545/8013640d-41b9-42c4-81bf-666dcf41e9ee)
+
 ### Project Description
 In this project, you'll analyze video game critic and user scores as well as sales data for the top 400 video games released since 1977. You'll search for a golden age of video games by identifying release years that users and critics liked best, and you'll explore the business side of gaming by looking at game sales data.
 
