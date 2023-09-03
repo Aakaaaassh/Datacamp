@@ -14,3 +14,5 @@ Your final query:
 
 - See if length of stay impacts the average diagnostic scores rounded to two decimal places for international students, and order the results by descending order of the length of stay.
 - The final output of your query with aliases will have a total nine observation rows and four columns: `stay`, `average_phq`, `average_scs`, and `average_as` in that order.
+
+Here is my [Publication](https://app.datacamp.com/workspace/w/f3c5c4a2-dd13-4cd8-bafa-28f627dbf9fc)
