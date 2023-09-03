@@ -8,3 +8,6 @@ In this introductory project, you are interested in the recent carbon emissions 
 - In the second SQL cell, write a query that returns a table of each `industry_group` along with the number of companies that are in that industry and a total of the PCFs for that industry, rounded to one decimal place, filtering for the most recent year that data was collected.
   - Please name the three columns `industry_group`, `num_companies`, and `total_industry_footprint`.
   - Present your results in order from the highest emitting industries to the lowest emitting industries.
+
+
+## Here is my [Publication](https://app.datacamp.com/workspace/w/45a32e50-09bd-4f90-a036-9972f8255cf2) on Analyzing Industry Carbon Emissions
