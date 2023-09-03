@@ -13,4 +13,4 @@ Your project will follow these exploratory steps:
 Your final query:
 
 - See if length of stay impacts the average diagnostic scores rounded to two decimal places for international students, and order the results by descending order of the length of stay.
-- The final output of your query with aliases will have a total nine observation rows and four columns: `stay`, `average_phq`, a`verage_scs`, and `average_as`, in that order.
+- The final output of your query with aliases will have a total nine observation rows and four columns: `stay`, `average_phq`, `average_scs`, and `average_as`, in that order.
