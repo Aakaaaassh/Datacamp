@@ -1,3 +1,4 @@
 # SQL
-## Projects
-## Case Studies
+**Projects**
+
+**Case Studies**
