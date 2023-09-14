@@ -13,9 +13,9 @@ In this notebook, we are going to analyze international debt data collected by T
 The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 
 ### Project Tasks
-1. What is the number of distinct countries present in the database? The output should be single column aliased with the following name: total_distinct_countries.
-2. What are the distinct debt indicators? the output column should be aliased as distinct_debt_indicators and the outputs should be ordered by it.
-3. What is the total amount of debt owed by all the countries present in the table? The output should be single column aliased with the following name: total_debt.
-4. What country has the highest amount of debt?
-5. What is the average amount of debt across different debt indicators?
-6. What is the highest amount of principal repayments in the "DT.AMT.DLXF.CD" category?
+* What is the number of distinct countries present in the database? The output should be single column aliased with the following name: total_distinct_countries.
+* What are the distinct debt indicators? the output column should be aliased as distinct_debt_indicators and the outputs should be ordered by it.
+* What is the total amount of debt owed by all the countries present in the table? The output should be single column aliased with the following name: total_debt.
+* What country has the highest amount of debt?
+* What is the average amount of debt across different debt indicators?
+* What is the highest amount of principal repayments in the "DT.AMT.DLXF.CD" category?
